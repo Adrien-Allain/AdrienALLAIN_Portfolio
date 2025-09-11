@@ -16,7 +16,7 @@ Google Trends**
 - Comparaison des performances des modèles univariés aux modèle intégrant les données de **Google Trends**.  
 - Objectif : analyser l’apport de données comportementales issues des recherches web pour la surveillance épidémiologique.  
 
-🔗 [Voir le projet](lien_vers_repo)
+🔗 [Voir le projet](Mémoire master 1)
 
 ---
 
