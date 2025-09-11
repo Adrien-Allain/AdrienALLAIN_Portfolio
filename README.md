@@ -36,7 +36,7 @@ Google Trends**
 - Analyse comparative des performances.  
 - Objectif : prédire la résistance en fonction de la composition du béton.  
 
-🔗 [Voir le projet](lien_vers_repo)
+🔗 [Voir le projet](https://github.com/Adrien-Allain/AdrienALLAIN_Portfolio/tree/034fe604dfbe94dbd375a6f7a3fa833898358146/Projet%20Machine%20Learning)
 
 ---
 
