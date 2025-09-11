@@ -26,7 +26,7 @@ Google Trends**
 - Variables explicatives : habitudes de vie, contexte académique, caractéristiques sociodémographiques.  
 - Objectif : identifier les déterminants statistiquement significatifs de la qualité du sommeil.  
 
-🔗 [Voir le projet](lien_vers_repo)
+🔗 [Voir le projet]((https://github.com/Adrien-Allain/AdrienALLAIN_Portfolio/tree/main/M%C3%A9moire%20master%201))
 
 ---
 
