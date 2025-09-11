@@ -26,7 +26,7 @@ Google Trends**
 - Variables explicatives : habitudes de vie, contexte académique, caractéristiques sociodémographiques.  
 - Objectif : identifier les déterminants statistiquement significatifs de la qualité du sommeil.  
 
-🔗 [Voir le projet](https://github.com/Adrien-Allain/AdrienALLAIN_Portfolio/tree/56d23e43c6bfb8dc28607b5c4eb48bce6eb4bc16/Etude%20%C3%A9conom%C3%A9trie)
+🔗 [Voir le projet](./Etude%20économétrie)
 
 ---
 
@@ -36,7 +36,7 @@ Google Trends**
 - Analyse comparative des performances.  
 - Objectif : prédire la résistance en fonction de la composition du béton.  
 
-🔗 [Voir le projet](https://github.com/Adrien-Allain/AdrienALLAIN_Portfolio/tree/034fe604dfbe94dbd375a6f7a3fa833898358146/Projet%20Machine%20Learning)
+🔗 [Voir le projet](./Projet%20Machine%20Learning)
 
 ---
 
