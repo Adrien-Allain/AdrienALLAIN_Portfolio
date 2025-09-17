@@ -50,16 +50,6 @@ Google Trends**
 
 ---
 
-### 🎵 Application Web RShiny  
-**📌 Visualisation interactive de données musicales**  
-- Base de données : albums, artistes, notes (Metascore, User Score).  
-- Fonctionnalités : filtres, graphiques dynamiques, exploration, redirection vers Spotify via API.  
-- Objectif : permettre une **exploration intuitive et ludique** des données musicales.  
-
-🔗 [Voir l’application](lien_vers_repo)
-
----
-
 ## 🛠️ Compétences techniques
 - **Langages :** Python, R, SQL  
 - **Data viz :** Power BI, Dash, RShiny, matplotlib, seaborn, ggplot2
