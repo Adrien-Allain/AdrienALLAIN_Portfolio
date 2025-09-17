@@ -46,7 +46,7 @@ Google Trends**
 - Fonctionnalités : filtres interactifs par **genre** et **ville**, graphiques dynamiques pour visualiser la **répartition des ventes** et l’**évolution des achats dans le temps**.  
 - Objectif : permettre une **exploration intuitive et interactive** des performances de ventes du supermarché.  
 
-🔗 [Voir l’application](./Projet%Dash)
+🔗 [Voir l’application](./Projet%20Dash)
 
 ---
 
