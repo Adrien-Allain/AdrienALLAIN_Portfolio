@@ -45,7 +45,8 @@ Google Trends**
 - Base de données : ventes par catégorie de produits, informations sur les clients (genre, ville).  
 - Fonctionnalités : filtres interactifs par **genre** et **ville**, graphiques dynamiques pour visualiser la **répartition des ventes** et l’**évolution des achats dans le temps**.  
 - Objectif : permettre une **exploration intuitive et interactive** des performances de ventes du supermarché.  
-- 🌐 Démo en ligne : [Accéder au dashboard sur Render](https://projet-dash-adrien-1.onrender.com/)
+
+🔗 [Voir l’application](./Projet%Dash)
 
 ---
 
